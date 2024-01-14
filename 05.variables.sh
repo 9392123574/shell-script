@@ -1,3 +1,3 @@
 DATE=$(date)
 
-echo "today date and times is : $DATE
+echo "today date and times is : $DATE"
